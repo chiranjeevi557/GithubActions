@@ -1,0 +1,26 @@
+# Ignore Gradle build output directories
+/build/
+/out/
+
+# Ignore IDE specific files
+.idea/
+.classpath
+.project
+.settings/
+
+# Ignore Spring Boot application configuration files
+application.properties
+application.yml
+
+# Ignore log files
+*.log
+
+# Ignore generated files and directories
+/generated/
+/generated-sources/
+
+# Ignore local configuration files
+/config/application-local.properties
+/config/application-local.yml
+
+.DS_Store
